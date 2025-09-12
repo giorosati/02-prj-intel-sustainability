@@ -43,7 +43,7 @@
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: rgba(20, 20, 30, 0.6); /* Lower opacity for more image visibility */
+	background: rgba(0, 113, 197, 0.85); /* Intel blue, semi-transparent */
 	color: #fff;
 	display: flex;
 	align-items: center;
