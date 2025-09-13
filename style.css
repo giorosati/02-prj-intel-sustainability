@@ -1,3 +1,11 @@
+/* Footer paragraph under timeline */
+.timeline-footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
+	text-align: center;
+	margin: 24px auto 0 auto;
+	display: block;
+}
 /* Timeline flexbox container */
 .timeline-container {
 		display: flex;
