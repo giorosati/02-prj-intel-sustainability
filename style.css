@@ -51,7 +51,8 @@
 	opacity: 0;
 	transition: opacity 0.2s;
 	z-index: 2;
-	padding: 24px;
+	box-sizing: border-box;
+	padding: 16px;
 	text-align: center;
 }
 
